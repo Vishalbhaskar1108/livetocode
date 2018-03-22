@@ -5,5 +5,5 @@ In this project I made a website for Cab allocation named as Lavi Cans in which 
 In the zip folder, you can find various pictures, fonts, PHP, HTML files and a mysql database file. Import the database and run the home page on the local server.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-The lavicabs report file which is a doc file gives the brief about the functionality of the project and screenshots show it in action.
+The lavicabs report file which is a doc file containing a brief description about the functionality of the project and screenshots showing it in action.
 --------------------------------------------------------------------------------------------------------------------------------------
